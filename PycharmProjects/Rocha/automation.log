@@ -1,0 +1,24 @@
+04/19/2017 03:09:10 PM - ContactPage - INFO: Element found with locator: input_7_1_3 and  locatorType: id
+04/19/2017 03:09:11 PM - ContactPage - INFO: Sent data on element with locator: input_7_1_3 locatorType: id
+04/19/2017 03:09:11 PM - ContactPage - INFO: Element found with locator: input_7_1_6 and  locatorType: id
+04/19/2017 03:09:11 PM - ContactPage - INFO: Sent data on element with locator: input_7_1_6 locatorType: id
+04/19/2017 03:09:11 PM - ContactPage - INFO: Element found with locator: input_7_2 and  locatorType: id
+04/19/2017 03:09:12 PM - ContactPage - INFO: Sent data on element with locator: input_7_2 locatorType: id
+04/19/2017 03:09:12 PM - ContactPage - INFO: Element found with locator: input_7_3 and  locatorType: id
+04/19/2017 03:09:12 PM - ContactPage - INFO: Sent data on element with locator: input_7_3 locatorType: id
+04/19/2017 03:09:12 PM - ContactPage - INFO: Element found with locator: input_7_5_3 and  locatorType: id
+04/19/2017 03:09:13 PM - ContactPage - INFO: Sent data on element with locator: input_7_5_3 locatorType: id
+04/19/2017 03:09:13 PM - ContactPage - INFO: Element found with locator: input_7_5_4 and  locatorType: id
+04/19/2017 03:09:13 PM - ContactPage - INFO: California is selected by visible text. Element locator: input_7_5_4 locatorType: id
+04/19/2017 03:09:13 PM - ContactPage - INFO: Element found with locator: input_7_5_5 and  locatorType: id
+04/19/2017 03:09:13 PM - ContactPage - INFO: Sent data on element with locator: input_7_5_5 locatorType: id
+04/19/2017 03:09:13 PM - ContactPage - INFO: Element found with locator: input_7_7 and  locatorType: id
+04/19/2017 03:09:14 PM - ContactPage - INFO: Sent data on element with locator: input_7_7 locatorType: id
+04/19/2017 03:09:14 PM - ContactPage - INFO: Element found with locator: choice_7_6_1 and  locatorType: id
+04/19/2017 03:09:14 PM - ContactPage - INFO: Clicked on element with locator: choice_7_6_1 locatorType: id
+04/19/2017 03:09:14 PM - ContactPage - INFO: Element found with locator: gform_submit_button_7 and  locatorType: id
+04/19/2017 03:09:17 PM - ContactPage - INFO: Clicked on element with locator: gform_submit_button_7 locatorType: id
+04/19/2017 03:09:17 PM - ContactPage - INFO: Element found with locator: .//li[@id='field_7_4']//div[@class='gfield_description validation_message'] and  locatorType: xpath
+04/19/2017 03:09:17 PM - ContactPage - INFO: Element is displayed with locator: .//li[@id='field_7_4']//div[@class='gfield_description validation_message'] locatorType: xpath
+04/19/2017 03:09:17 PM - ContactPage - INFO: Element found with locator: .//li[@id='field_7_4']//div[@class='gfield_description validation_message'] and  locatorType: xpath
+04/19/2017 03:09:17 PM - ContactPage - INFO: The text on element is-> The CAPTCHA wasn't entered correctly. Go back and try it again.
